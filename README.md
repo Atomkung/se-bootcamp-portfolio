@@ -11,8 +11,8 @@
 | Name | Kongpop Kraungjae |
 | Nickname | Atom |
 | Program | Software Engineering, RMUTL |
-| Background | |
-| Interest | Web / Mobile / AI / Game / IoT / Data / UX/UI / ยังไม่แน่ใจ |
+| Background | มาจากลำปาง |
+| Interest | AI / Game / IoT / Data / UX/UI / Cybersecurity |
 | Goal |  |
 
 ---
@@ -99,13 +99,13 @@ git push -u origin main
 
 | รายการ | สถานะ |
 |---|---|
-| สร้าง GitHub account ได้ | ☐ |
-| สร้าง repository ได้ | ☐ |
-| สร้าง README.md ได้ | ☐ |
-| ใช้ Markdown ได้ | ☐ |
-| commit งานแรกได้ | ☐ |
-| push ขึ้น GitHub ได้ | ☐ |
-| เปิด repository แล้วเห็น README ได้ | ☐ |
+| สร้าง GitHub account ได้ | ✅ |
+| สร้าง repository ได้ | ✅ |
+| สร้าง README.md ได้ | ✅ |
+| ใช้ Markdown ได้ | ✅ |
+| commit งานแรกได้ | ✅ |
+| push ขึ้น GitHub ได้ | ✅ |
+| เปิด repository แล้วเห็น README ได้ | ✅ |
 | มีเป้าหมายการเรียนต่อ | ☐ |
 
 ---
